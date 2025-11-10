@@ -36,7 +36,7 @@ button {
   padding: 8px 16px;
 }
 
-.content {
+.sidebar-and-cards {
   flex: 1;
   display: flex;
   align-items: center;
